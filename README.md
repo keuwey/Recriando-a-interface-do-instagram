@@ -1,1 +1,1 @@
-### Recriação da página inicial de uma das mais famosas redes sociais.
+# Recriação da página inicial de uma das mais famosas redes sociais. 📸
